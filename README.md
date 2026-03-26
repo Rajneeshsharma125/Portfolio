@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Rajneesh Sharma — Portfolio
 
-# Run and deploy your AI Studio app
+A personal portfolio website built with Next.js and Tailwind CSS.
 
-This contains everything you need to run your app locally.
+## Live Site
+https://portfolio-theta-eight-edds99zlt6.vercel.app
 
-View your app in AI Studio: https://ai.studio/apps/ad233a54-c84a-4298-9f54-c06871290b95
+## Built With
+- Next.js 15
+- Tailwind CSS
+- TypeScript
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Connect
+- GitHub: https://github.com/Rajneeshsharma125
+- LinkedIn: https://www.linkedin.com/in/rajneesh-sharma-12rh
